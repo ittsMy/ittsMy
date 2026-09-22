@@ -1,4 +1,4 @@
-# Olá, eu sou a Myrela Silva! 👋
+# Olá, eu sou a Myrela Silva! 
 
 ### 🎓 Sobre mim
 - 🏫 Cursando o 2º semestre de **Sistemas de Informação** na **UNINOVE**.
